@@ -1,46 +1,46 @@
 #Portfolio Projects 
 Risk Assessment and Management Template 
-##Introduction 
+'##'Introduction 
   Purpose - Objective of the risk assessment 
     is to evaluate the security risks associated with [organization/System] 
   Scope - The assessment covers [list of systems, processes 
     and data involved] 
   Methodology - Assessment follows framework /methodology 
 
-##Risk Assessment Team 
+'##'Risk Assessment Team 
   Team members:
       
   Stakeholders - Identify key stakeholders 
 
-##System and Data Description 
+'##'System and Data Description 
   System overview - Description of the system 
   Data Flows - Data Flow diagram
 
-##Risk Identification
+'##'Risk Identification
   Threat Identification - List potential threats
   Vulnerability Identification- Identify vulnerabilities 
   Asset Identification - Catalog Assets at risk 
 
-##Risk Analysis 
+'##'Risk Analysis 
 Impact Analysis - Assess potential impacts 
 Likelihood. Analysis- Evaluate likelihood 
 Risk Scoring- Assign risk scores 
 
-##Risk Evaluation 
+'##'Risk Evaluation 
 Risk Prioritization - Prioritize risks based on scores and determine which requires immediate resolution
 Risk Appetite - Compare identified risk against organizations risk appetite and tolerance levels
 
-##Risk mitigation strategies 
+'##'Risk mitigation strategies 
 Mitigation Measure- Recommended actions to 
 reduce the likelihood or impact of each identified risk
 Residual Risk- Assess the remaining risk after 
 mitigation measures are implemented
 
-##Action Plan
+'##'Action Plan
 Mitigation Actions - specific actions to be taken, including responsibilites, time lines and resources
 Implementation Timeline - Provide a schedule for implementing mitigation measures and completing the action plan
 
-##Monitoring & Review 
+'##'Monitoring & Review 
 Continuous Monitoring-outline processes for ongoing monitoring of risks and the effectiveness of mitigation measures 
 Review Schedule- set a schedule for periodic review and updates of the risk assessment
 
